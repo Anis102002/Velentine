@@ -1,0 +1,3 @@
+function sayYes() {
+    alert("Thank you for choosing me 💖\nI promise to love you, Raheed ❤️");
+}
